@@ -1,0 +1,8 @@
+# Ambiente virtual
+.venv/
+
+# Dados gerados
+data/
+
+# Resultados de debug
+debug/resultados/
